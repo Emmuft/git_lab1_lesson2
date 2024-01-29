@@ -1,1 +1,16 @@
 Ничем не отличаются, демоверсия соотвествует окончательному результату смерживания веток.
+9 коммитов
+Комментарии в них с конца:
+init
+heat added
+boots
+READMY added
+dots
+fix readmy
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/boots_buttons'
+12345678
+Sent last for txt
+
